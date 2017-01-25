@@ -1,7 +1,7 @@
 # artdeco
 
 ## About Artdeco
-Art Deco  is a style of visual arts, architecture and design that first appeared in France just before World War I.[1] It became popular in the 1920s and 1930s, and influenced the design of buildings, furniture, jewellery, fashion, cars, movie theatres, trains, ocean liners, and everyday objects such as radios and vacuum cleaners.
+Art Deco  is a style of visual arts, architecture and design that first appeared in France just before World War I. It became popular in the 1920s and 1930s, and influenced the design of buildings, furniture, jewellery, fashion, cars, movie theatres, trains, ocean liners, and everyday objects such as radios and vacuum cleaners.
 
 Artdeco is a framework, which provides a new way of using Decorator Pattern in Java. To implement Decorator, we usually have to override all methods of the decorating object. Today, we'd like to provide you a new, lightweight approach. 
 
